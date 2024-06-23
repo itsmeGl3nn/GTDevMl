@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Glenn Tolentino
+- 👀 I’m interested in learning any skill related to the Full Stack Data Science and Full Stack Development!
+- 🌱 I’m currently learning Data Engineering and ML/AI Engineering.
+- 💞️ I’m looking to collaborate on projects for the areas I am interested in.
+- 📫 You may reach me through my <a href="https://www.linkedin.com/in/glenn-tolentino/" target="_blank">LinkedIn</a>
